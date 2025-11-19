@@ -1,0 +1,8 @@
+Student Sannqqq
+{
+   "firstname": "Sann",
+   "lastname": "qqq",
+   "birth_date": "12.01.2009",
+   "course": "1",
+   "student_id": "2222",
+}
